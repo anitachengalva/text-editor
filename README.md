@@ -3,7 +3,12 @@
 
 ## Description
 
-## Deployed Link(s)
+This project is a single-page Progressive Web Application. An existing text editor application has been modified to function offline, using the [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) and service workers to store data.
+
+
+## Deployed Link
+
+This application is deployed through Heroku.
 
 ## Table of Contents
 
@@ -31,10 +36,10 @@ SO THAT I can reliably retrieve them for later use
 > [Javascript](https://www.javascript.com/)
 
 > [Node.js](https://nodejs.org/en/)
-> - [Mongoose npm]()
+> - [idb npm]()
 > - [Express.js npm](https://expressjs.com/)
 
-> [MongoDB](https://youtu.be/7DG3kCDx53c)
+> [Heroku]()
 
 > [TECH]()
 
