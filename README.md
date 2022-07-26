@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is a single-page Progressive Web Application. An existing text editor application has been modified to function offline, using the [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) and service workers to store data.
+This project is a single-page Progressive Web Application. A pre-existing text editor application has been modified to function offline, using the [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API), [idb npm](https://www.npmjs.com/package/idb) wrapper for [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API), and a service worker using [Workbox](https://developer.chrome.com/docs/workbox/) to store data.
 
 
 ## Deployed Link
@@ -36,14 +36,28 @@ SO THAT I can reliably retrieve them for later use
 > [Javascript](https://www.javascript.com/)
 
 > [Node.js](https://nodejs.org/en/)
-> - [idb npm]()
-> - [Express.js npm](https://expressjs.com/)
+> - [Express.js npm](https://www.npmjs.com/package/express)
+> - [idb npm](https://www.npmjs.com/package/idb)
+> - [CodeMirror Themes](https://www.npmjs.com/package/code-mirror-themes)
+> - [webpack-pwa-manifest](https://www.npmjs.com/package/webpack-pwa-manifest)
+> - [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
+> - [babel-loader](https://www.npmjs.com/package/babel-loader)
+> - [css-loader](https://www.npmjs.com/package/css-loader)
+> - [style-loader](https://www.npmjs.com/package/style-loader)
 
-> [Heroku]()
+> [Express.js](https://expressjs.com/)
 
-> [TECH]()
+> [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 
-> [TECH]()
+> [Workbox](https://developer.chrome.com/docs/workbox/)
+
+> [Webpack](https://webpack.js.org/)
+
+> [Babel](https://babeljs.io/)
+
+> [Heroku](https://www.heroku.com/what)
+
+> [Insomnia](https://docs.insomnia.rest/insomnia/get-started)
 
 
 ## Screenshots and Walkthrough
