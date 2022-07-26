@@ -8,7 +8,10 @@ This project is a single-page Progressive Web Application. A pre-existing text e
 
 ## Deployed Link
 
-This application is deployed through Heroku.
+This application is deployed through Heroku.   
+
+> https://akc-text-editor.herokuapp.com/
+
 
 ## Table of Contents
 
