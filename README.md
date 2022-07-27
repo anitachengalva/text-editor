@@ -18,7 +18,7 @@ This application is deployed through Heroku.
 - [User Story](#user-story)
 - [Installation and Usage](#installation-and-usage)
 - [Technologies Utilized](#technologies-utilized)
-- [Screenshots and Walkthrough](#screenshots-and-walkthrough)
+- [Screenshots](#screenshots)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -67,7 +67,7 @@ This application is hosted at Port 3000, so typing: `http://localhost:3000/` in 
 > [Insomnia](https://docs.insomnia.rest/insomnia/get-started)
 
 
-## Screenshots and Walkthrough
+## Screenshot
 
 ![Screenshot](/client/src/images/19thumbnail.jpg)
 
