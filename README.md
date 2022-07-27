@@ -65,6 +65,8 @@ SO THAT I can reliably retrieve them for later use
 
 ## Screenshots and Walkthrough
 
+
+
 ## Contributors
 
 Thank you for checking out my project! If you would like to see more of my work, please take a peek at my [GitHub](https://github.com/anitachengalva/) and [portfolio](http://anitachengalva.github.io/portfolio).
