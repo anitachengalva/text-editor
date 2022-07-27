@@ -34,6 +34,10 @@ SO THAT I can reliably retrieve them for later use
 
 ## Installation and Usage
 
+In order to run this application, you will want to `git clone` this repository so that the code is on your local machine. Run `npm i` while in the root directory in order to install all necessary [Node.js](https://nodejs.org/en/) dependencies. Then run `npm start` to launch the server.
+
+This application is hosted at Port 3000, so typing: `http://localhost:3000/` in to the address bar of your browser while the server is running should display the user interface.
+
 ## Technologies Utilized
 
 > [Javascript](https://www.javascript.com/)
@@ -65,7 +69,9 @@ SO THAT I can reliably retrieve them for later use
 
 ## Screenshots and Walkthrough
 
+![Screenshot](/client/src/images/19thumbnail.jpg)
 
+This application allows me to not only edit text, exit the application, and return to find my changes preserved, **BUT ALSO** to preserve my changes regardless of whether I am online or offline.
 
 ## Contributors
 
