@@ -67,7 +67,7 @@ This application is hosted at Port 3000, so typing: `http://localhost:3000/` in 
 > [Insomnia](https://docs.insomnia.rest/insomnia/get-started)
 
 
-## Screenshot
+## Screenshots
 
 ![Screenshot](/client/src/images/19thumbnail.jpg)
 
