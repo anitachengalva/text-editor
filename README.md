@@ -71,7 +71,7 @@ This application is hosted at Port 3000, so typing: `http://localhost:3000/` in 
 
 ![Screenshot](/client/src/images/19thumbnail.jpg)
 
-This application allows me to not only edit text, exit the application, and return to find my changes preserved, **BUT ALSO** to preserve my changes regardless of whether I am online or offline.
+This application allows me to not only edit text, exit the application, and return to find my changes preserved, **BUT ALSO** it is able to preserve my changes regardless of whether I am online or offline.
 
 ## Contributors
 
