@@ -71,7 +71,20 @@ Hitting the "Install!" button allows you to save changes to the text editor rega
 
 ## Screenshots
 
-![Screenshot](/client/src/images/19thumbnail.jpg)
+![Screenshot-LocalHost](/client/src/images/19thumbnail.jpg)
+*Application running in `http://localhost:3000/`*
+
+<br/>
+
+![Screenshot-Heroku](/client/src/images/19thumbnail2.jpg)
+*Application deployed to Heroku*
+
+<br/>
+
+![Screenshot-Install](/client/src/images/19thumbnail3.jpg)
+*Application installed on my local machine*    
+
+<br/>
 
 This application allows me to not only edit text, exit the application, and return to find my changes preserved, **BUT ALSO** it is able to preserve my changes regardless of whether I am online or offline.
 
