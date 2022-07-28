@@ -38,6 +38,8 @@ In order to run this application, you will want to `git clone` this repository s
 
 This application is hosted at Port 3000, so typing: `http://localhost:3000/` in to the address bar of your browser while the server is running should display the user interface.
 
+Hitting the "Install!" button allows you to save changes to the text editor regardless of whether you are online or offline. You are able to make changes, exit the application, and come back to your saved work.
+
 ## Technologies Utilized
 
 > [Javascript](https://www.javascript.com/)
