@@ -50,6 +50,9 @@ module.exports = () => {
         {
           test: /\.css$/i,
           use: ["style-loader", "css-loader"],
+          options: {
+            import: true,
+          },
         },
         {
           test: /\.m?js$/,
