@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is a single-page Progressive Web Application. A pre-existing text editor application has been modified to function offline, using the [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API), [idb npm](https://www.npmjs.com/package/idb) wrapper for [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API), and a service worker using [Workbox](https://developer.chrome.com/docs/workbox/) to store data.
+This project is a text editing Progressive Web Application (PWA) modified to store and retrieve data, as well as offline capabilities. This has been achieved by using the [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API), [idb npm](https://www.npmjs.com/package/idb) wrapper for the [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API), [Webpack](https://webpack.js.org/) as a module bundler, and a service worker using [Workbox](https://developer.chrome.com/docs/workbox/).
 
 
 ## Deployed Link
@@ -65,8 +65,6 @@ Hitting the "Install!" button allows you to save changes to the text editor rega
 > [Babel](https://babeljs.io/)
 
 > [Heroku](https://www.heroku.com/what)
-
-> [Insomnia](https://docs.insomnia.rest/insomnia/get-started)
 
 
 ## Screenshots
